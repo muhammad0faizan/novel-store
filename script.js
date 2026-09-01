@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   form.addEventListener("submit", async e => {
     e.preventDefault();
-    if (!c.orderApiUrl || c.orderApiUrl.includes("PASTE_YOUR")) {
+    if (!c.orderApiUrl || c.orderApiUrl.includes("https://script.google.com/macros/s/AKfycbwBg8zbOPDjUHU5l3sauqPyFqcM2nkiRajPWMwMjEt3RkyXK90CpXnd9BcLDpgaakibWw/exec")) {
       alert("Please configure orderApiUrl in config.js first.");
       return;
     }
