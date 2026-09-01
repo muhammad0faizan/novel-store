@@ -17,7 +17,7 @@ const SITE_CONFIG = {
   email: "mr.muhammad4696@icloud.com",
 
   // After deploying Apps Script, paste its /exec URL here.
-  orderApiUrl: "https://script.google.com/macros/s/AKfycbwHjdBi4gWPC4cYS6gfYZ0vTO6De1P68ZERl48XKVi7FJGi-n38Vtn6bWmMWuhwoE2rVQ/exec",
+  orderApiUrl: "https://script.google.com/macros/s/AKfycbwBg8zbOPDjUHU5l3sauqPyFqcM2nkiRajPWMwMjEt3RkyXK90CpXnd9BcLDpgaakibWw/exec",
 
   pdfs: {
     urdu: "pdfs/urdu.pdf",
